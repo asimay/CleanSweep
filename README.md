@@ -1,5 +1,5 @@
 # CleanSweep
 Trash cleaning robot
 
-https://travis-ci.org/TheOriginalBDM/CleanSweep.svg?branch=master
+<img src="https://travis-ci.org/TheOriginalBDM/CleanSweep.svg?branch=master"/>
 
